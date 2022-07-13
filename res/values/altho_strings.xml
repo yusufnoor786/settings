@@ -66,6 +66,7 @@
     <!-- App lock -->
     <string name="app_lock_title">App lock</string>
     <string name="search">Search</string>
+    <string name="search_apps">Search apps</string>
     <string name="app_lock_summary_singular">1 application is protected</string>
     <string name="app_lock_summary_plural"><xliff:g example="2" id="Number of applications">%1$d</xliff:g> applications are protected</string>
     <string name="app_lock_authentication_dialog_title">Unlock</string>
