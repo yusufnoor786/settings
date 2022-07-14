@@ -70,6 +70,10 @@
             android:title="@string/screen_zoom_title"
             settings:keywords="@string/keywords_display_size" />
 
+        <ListPreference
+            android:key="android.theme.customization.icon_pack"
+            android:title="@string/theme_customization_icon_pack_title"/>
+
     </PreferenceCategory>
 
     <PreferenceCategory
