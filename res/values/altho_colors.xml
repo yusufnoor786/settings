@@ -20,7 +20,4 @@
     <!-- Icons -->
     <color name="altho_ic_homepage_color">@*android:color/accent_device_default_light</color>
 
-    <!-- Themes -->
-    <color name="homepage_themes_background">#536dfe</color>
-
 </resources>
