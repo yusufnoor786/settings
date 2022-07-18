@@ -92,10 +92,6 @@ public class DisplaySettings extends DashboardFragment {
                 "android.theme.customization.icon_pack"));
         controllers.add(new OverlayCategoryPreferenceController(context,
                 "android.theme.customization.font"));
-        ontrollers.add(new OverlayCategoryPreferenceController(context,
-                "android.theme.customization.signal_icon"));
-        controllers.add(new OverlayCategoryPreferenceController(context,
-                "android.theme.customization.wifi_icon"));
         return controllers;
     }
 
