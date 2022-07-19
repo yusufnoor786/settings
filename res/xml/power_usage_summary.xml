@@ -64,6 +64,14 @@
         android:title="@string/battery_percentage"
         settings:controller="com.android.settings.display.BatteryPercentagePreferenceController" />
 
+    <!-- QS Battery estimates -->
+    <com.pixys.support.preference.SystemSettingSwitchPreference
+         android:key="qs_show_battery_estimate"
+         android:title="@string/qs_show_battery_estimate_title"
+         android:summaryOn="@string/qs_show_battery_estimate_summary_on"
+         android:summaryOff="@string/qs_show_battery_estimate_summary_off"
+         android:defaultValue="false" />
+
     <SwitchPreference
         android:key="fast_charging"
         android:title="@string/fast_charging_title"
