@@ -13,13 +13,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
   -->
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-        android:width="24dp"
-        android:height="24dp"
-        android:viewportWidth="24.0"
-        android:viewportHeight="24.0">
-    <path
-        android:pathData="M20.31,9V4.31H15.62L12.31,1L9,4.31H4.31V9L1,12.31L4.31,15.62V20.31H9L12.31,23.62L15.62,20.31H20.31V15.62L23.62,12.31L20.31,9ZM18.31,14.79V18.31H14.79L12.31,20.79L9.83,18.31H6.31V14.79L3.83,12.31L6.31,9.83V6.31H9.83L12.31,3.83L14.79,6.31H18.31V9.83L20.79,12.31L18.31,14.79ZM17.31,12.31C17.31,15.07 15.07,17.31 12.31,17.31V7.31C15.07,7.31 17.31,9.55 17.31,12.31Z"
-        android:fillType="evenOdd"
-        android:fillColor="?android:attr/colorPrimary"/>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:tint="@color/wave_homepage_icon_display_color" android:height="18dp" android:width="18dp" android:viewportWidth="24" android:viewportHeight="24">
+    <path android:pathData="M 0 0 H 24 V 24 H 0 V 0 Z" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:fillColor="#000000" android:pathData="M12,7.75 L12,16.25 C14.3472102,16.25 16.25,14.3472102 16.25,12 C16.25,9.65278981 14.3472102,7.75 12,7.75 Z M12,17.75 C8.82436269,17.75 6.25,15.1756373 6.25,12 C6.25,8.82436269 8.82436269,6.25 12,6.25 C15.1756373,6.25 17.75,8.82436269 17.75,12 C17.75,15.1756373 15.1756373,17.75 12,17.75 Z M12.75,22 L11.25,22 L11.25,19 L12.75,19 L12.75,22 Z M5.53033009,19.5303301 L4.46966991,18.4696699 L6.46966991,16.4696699 L7.53033009,17.5303301 L5.53033009,19.5303301 Z M2,12.75 L2,11.25 L5,11.25 L5,12.75 L2,12.75 Z M4.46966991,5.53033009 L5.53033009,4.46966991 L7.53033009,6.46966991 L6.46966991,7.53033009 L4.46966991,5.53033009 Z M11.25,2 L12.75,2 L12.75,5 L11.25,5 L11.25,2 Z M18.4696699,4.46966991 L19.5303301,5.53033009 L17.5303301,7.53033009 L16.4696699,6.46966991 L18.4696699,4.46966991 Z M22,11.25 L22,12.75 L19,12.75 L19,11.25 L22,11.25 Z M19.5303301,18.4696699 L18.4696699,19.5303301 L16.4696699,17.5303301 L17.5303301,16.4696699 L19.5303301,18.4696699 Z" android:strokeWidth="1" android:fillType="evenOdd"/>
 </vector>

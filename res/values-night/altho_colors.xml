@@ -20,4 +20,7 @@
     <!-- Icons -->
     <color name="altho_ic_homepage_color">@*android:color/accent_device_default_dark</color>
 
+    <!-- Settings Homepage Stupidity -->
+    <color name="wave_homepage_background">#ff000000</color>
+    <color name="wave_homepage_icon_background">#ff202124</color>
 </resources>
