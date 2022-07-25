@@ -117,9 +117,9 @@
     <string name="network_traffic_units_bits" translatable="false">kbps, Mbps, Gbps</string>
     <string name="network_traffic_units_bytes" translatable="false">kB/s, MB/s, GB/s</string>
 
+     <string name="wellbeing_title">Google Wellbeing</string>
      <string name="usercard_summary">Current active user, tap for more information</string>
-	 
-	 string name="gesture_illustration_description">Control your device with ease.</string>
+     <string name="gesture_illustration_description">Control your device with ease.</string>
     <string name="connected_setting_description">Manage your device\'s connections.</string>
     <string name="accessibility_illustration_description">Ease of access features for everyone.</string>
     <string name="account_illustration_description">Manage your passwords and user accounts.</string>
