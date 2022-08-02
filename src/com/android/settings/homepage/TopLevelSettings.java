@@ -220,8 +220,11 @@ public class TopLevelSettings extends DashboardFragment implements
             if (key.equals("top_level_accounts")){
                 preference.setLayoutResource(R.layout.top_level_preference_top);
             }
+            if (key.equals("top_level_altho_settings")){
+                preference.setLayoutResource(R.layout.top_level_preference_top);
+            }
             if (key.equals("top_level_wallpaper")){
-                preference.setLayoutResource(R.layout.top_level_preference_middle);
+                preference.setLayoutResource(R.layout.top_level_preference_bottom);
             }
             if (key.equals("top_level_battery")){
                 preference.setLayoutResource(R.layout.top_level_preference_bottom);

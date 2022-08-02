@@ -46,10 +46,12 @@ android_library {
 
     srcs: ["src/**/*.java",
            "src/**/*.kt",
+           "Wings/src/**/*.java",
     ],
     resource_dirs: [
         "res",
         "res-pixel",
+        "Wings/res
         "TouchGestures/res"
     ],
 

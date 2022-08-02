@@ -18,6 +18,10 @@
    <string name="selinux_status_permissive">Permissive</string>
    <string name="selinux_status_enforcing">Enforcing</string>
 
+   <!-- Top level Wings --> 
+   <string name="altho_settings_title">WIngs</string>
+   <string name="altho_settings_summary">add-on! Cust</string>
+
    <!-- Altho Version Preference -->
    <string name="Altho_version">"Altho version"</string>
 
