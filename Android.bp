@@ -51,7 +51,7 @@ android_library {
     resource_dirs: [
         "res",
         "res-pixel",
-        "Wings/res
+        "Wings/res",
         "TouchGestures/res"
     ],
 

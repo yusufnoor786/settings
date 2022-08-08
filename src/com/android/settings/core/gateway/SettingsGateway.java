@@ -324,7 +324,7 @@ public class SettingsGateway {
             NetworkProviderSettings.class.getName(),
             NetworkSelectSettings.class.getName(),
             AlarmsAndRemindersDetails.class.getName(),
-            AlthoSettings.class.getName()
+            AlthoSettings.class.getName(),
             MediaManagementAppsDetails.class.getName()
     };
 
